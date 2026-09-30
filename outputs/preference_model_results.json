@@ -1,0 +1,16 @@
+[
+  {
+    "Model": "logistic_regression",
+    "Accuracy": 0.85295,
+    "Precision": 0.8691729159637341,
+    "Recall": 0.9674711056189577,
+    "F1 Score": 0.9156915244325446
+  },
+  {
+    "Model": "random_forest",
+    "Accuracy": 0.84216,
+    "Precision": 0.8772917373120832,
+    "Recall": 0.9402970608902135,
+    "F1 Score": 0.9077023834584708
+  }
+]
